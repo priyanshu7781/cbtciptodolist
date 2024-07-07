@@ -1,1 +1,1 @@
-#Copy and past in browser - [https://cbtciptodolist.surge.sh/](https://cbtciptodolist.surge.sh/)
+#Click to view:- [https://cbtciptodolist.surge.sh/](https://cbtciptodolist.surge.sh/)
